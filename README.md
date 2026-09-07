@@ -10,6 +10,12 @@
 -->
 # dsh-agent-thinking（已弃用，源码归档）
 
+
+<p align="center">
+  <a href="https://github.com/jonah791/dsh-agent-thinking"><img src="https://img.shields.io/badge/version-0.1.0-blue" alt="version"></a>
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="license">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6" alt="TypeScript">
+</p>
 > **弃用说明（2026-08-21）**：主人定调「技能体系比思维模块插件更好」。本插件已从 web 组合卸载（unmount），源码归档保留供参考。**思维内容已迁移至技能 `thinking-frameworks`**（`~/.agents/skills/thinking-frameworks/SKILL.md`）——按基准实证校准的认知流思维框架，用技能体系承载（更丰富、单一来源、可积累）。
 > 基准数据与复现脚本保留在 `E:\alice\_tmp_review\think-bench\`。
 
